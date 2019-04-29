@@ -1,0 +1,10 @@
+{
+  "name": "goerob/helloworld",
+  "description": "Just hello",
+  "keywords": [
+    "goerob",
+    "helloworld",
+    "php"
+  ],
+  "type": "package"
+}

@@ -6,6 +6,7 @@
     "helloworld",
     "php"
   ],
+  "license": "proprietary",
   "type": "package",
   "package": {
           "name": "goerob/helloworld",
@@ -15,5 +16,6 @@
               "type": "git",
               "reference":"master"
             }
-        }  
+  },
+  "minimum-stability": "dev"
 }
